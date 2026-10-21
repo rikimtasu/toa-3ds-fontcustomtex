@@ -1,4 +1,5 @@
 Drop it under citra / azahar custom texture to use this HD texture. Font used was HarmonyOS Sans SC Medium (weight 500).
+HarmonyOS Sans source: https://github.com/kanami09/HarmonyOS-Sans-Font
 Support US release only.
 
 Preview Screenshot:
